@@ -1,0 +1,38 @@
+<header>
+
+```
+<img src="logo.png"
+     alt="H2OMG That's Clean"
+     class="logo">
+
+<h1>H₂OMG That's Clean</h1>
+
+<p>
+    Professional Car Cleaning & Pressure Washing
+    in Stanway, Colchester
+</p>
+
+<a class="btn"
+   href="https://calendar.app.google/ryoifUgkbE2NbLVe9"
+   target="_blank">
+   Book Online
+</a>
+```
+
+</header>
+
+<style>
+.logo{
+    width:220px;
+    max-width:80%;
+    display:block;
+    margin:0 auto 20px;
+}
+
+header{
+    background:linear-gradient(135deg,#0077b6,#00b4d8);
+    color:white;
+    text-align:center;
+    padding:50px 20px;
+}
+</style>
